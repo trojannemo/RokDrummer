@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RokDrummer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8230E0-7E67-4573-8A0C-222DF202C980}|RokDrummer\\RokDrummer.csproj|d:\\documents\\visual studio 2010\\projects\\rokdrummer\\rokdrummer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8230E0-7E67-4573-8A0C-222DF202C980}|RokDrummer\\RokDrummer.csproj|solutionrelative:rokdrummer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8230E0-7E67-4573-8A0C-222DF202C980}|RokDrummer\\RokDrummer.csproj|d:\\documents\\visual studio 2010\\projects\\rokdrummer\\rokdrummer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8230E0-7E67-4573-8A0C-222DF202C980}|RokDrummer\\RokDrummer.csproj|solutionrelative:rokdrummer\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8230E0-7E67-4573-8A0C-222DF202C980}|RokDrummer\\RokDrummer.csproj|d:\\documents\\visual studio 2010\\projects\\rokdrummer\\rokdrummer\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8230E0-7E67-4573-8A0C-222DF202C980}|RokDrummer\\RokDrummer.csproj|solutionrelative:rokdrummer\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8230E0-7E67-4573-8A0C-222DF202C980}|RokDrummer\\RokDrummer.csproj|d:\\documents\\visual studio 2010\\projects\\rokdrummer\\rokdrummer\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RokDrummer",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\RokDrummer\\RokDrummer.csproj",
+              "RelativeDocumentMoniker": "RokDrummer\\RokDrummer.csproj",
+              "ToolTip": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\RokDrummer\\RokDrummer.csproj",
+              "RelativeToolTip": "RokDrummer\\RokDrummer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-10T15:09:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\RokDrummer\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "RokDrummer\\frmMain.Designer.cs",
+              "ToolTip": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\RokDrummer\\frmMain.Designer.cs",
+              "RelativeToolTip": "RokDrummer\\frmMain.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwNkFAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:56:29.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\RokDrummer\\frmMain.cs",
+              "RelativeDocumentMoniker": "RokDrummer\\frmMain.cs",
+              "ToolTip": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\RokDrummer\\frmMain.cs",
+              "RelativeToolTip": "RokDrummer\\frmMain.cs",
+              "ViewState": "AgIAAHQDAAAAAAAAAAAAwH4DAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:34:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\RokDrummer\\frmMain.cs",
+              "RelativeDocumentMoniker": "RokDrummer\\frmMain.cs",
+              "ToolTip": "D:\\Documents\\Visual Studio 2010\\Projects\\RokDrummer\\RokDrummer\\frmMain.cs [Design]",
+              "RelativeToolTip": "RokDrummer\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:34:39.669Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

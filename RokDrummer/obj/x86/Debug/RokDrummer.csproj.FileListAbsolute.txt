@@ -1,0 +1,43 @@
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.exe.manifest
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.application
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.exe
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.pdb
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\Bass.Net.dll
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\NAudio.dll
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\SlimDX.dll
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.frmMain.resources
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.HelpForm.resources
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.Properties.Resources.resources
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.Updater.resources
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.Volume.resources
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.TrustInfo.xml
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.exe.manifest
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.application
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.exe
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.pdb
+E:\My Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.frmMain.resources
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.HelpForm.resources
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.Updater.resources
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.Volume.resources
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.TrustInfo.xml
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.exe
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.pdb
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.exe.config
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.exe.manifest
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.application
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.exe
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\RokDrummer.pdb
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\Bass.Net.dll
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\NAudio.dll
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.exe.manifest
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.application
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\obj\x86\Debug\RokDrummer.csproj.Up2Date
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\Vortice.XInput.dll
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\Vortice.XInput.pdb
+D:\Documents\Visual Studio 2010\Projects\RokDrummer\RokDrummer\bin\Debug\NautilusFREE.dll
