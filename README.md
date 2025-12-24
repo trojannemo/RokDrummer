@@ -1,5 +1,10 @@
 # 🥁 Rok Drummer
 
+**© TrojanNemo, 2015–2025**  
+*Dedicated to the rhythm gaming community*
+
+![Rok Drummer](https://nemosnautilus.com/drums/drumrokkerv130.jpg)
+
 ---
 
 ## About
